@@ -47,5 +47,5 @@ This project aims to apply descriptive and explorative statistical methods to un
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Descriptive-Analysis-Demographics.git
+   git clone https://github.com/mominayas/Descriptive-Analysis-Demographics.git
 
